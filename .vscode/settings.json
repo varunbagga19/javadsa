@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "priorityQueues",
+        "oops",
+        "deque",
+        "List",
+        "Forloop",
+        "Arrays",
+        "maps/maps"
+    ]
+}
